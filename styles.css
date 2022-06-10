@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(218, 212, 212);
+    padding: 60px ;   
+}
+div {
+    margin: 40px;
+    background-color: white;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 40px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+figcaption {
+    text-align-last: center;
+    padding :10px 0px 10px 0px
+}
+ul {
+    vertical-align: super;
+    line-height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
+h1 {
+    text-align-last: center;
+}
+h2 {
+    text-align-last: center;
+}
+h3 {
+    text-align-last: center;
+}
+p{
+    text-align-last: center;
+    line-height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
+footer {
+    text-align-last: center;
+    line-height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
